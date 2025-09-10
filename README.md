@@ -42,6 +42,3 @@ A video recording demonstrating the functionality of the application is included
 
 Author
 Developed by Kartikeya as part of the LC Corporate Web Development Internship Assignment.
-
-Do you also want me to write a **short one-paragraph project summary** (to put in the email when you submit this) so it looks polished?
-```
